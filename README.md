@@ -1,6 +1,7 @@
 # ATM-Controller
 Cpp Version - C++14
-CMakeList - 3.15 (in case you want to build with cmake)
+
+CMake - 3.15 (in case you want to build with cmake)
 
 Implemeted functionalities:
 Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
